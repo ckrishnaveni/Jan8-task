@@ -19,7 +19,7 @@ let contactno = document.createElement('span')
 
 function createId() {
     div1.style.width = "320px";
-    div1.style.height = "400px";
+    div1.style.height = "420px";
     div1.style.borderRadius = '10px';
     div1.style.marginTop = '20px';
     div1.style.border = "2px solid #000";
@@ -38,7 +38,7 @@ function createId() {
     collegediv.append(college)
     image.setAttribute("src", "https://as1.ftcdn.net/v2/jpg/09/98/37/88/1000_F_998378893_OHh3L8wpngldVAWyOO3loPOpMGS34XcA.jpg")
     image.style.maxWidth = "100%";
-    image.style.height = "61%";
+    image.style.height = "60%";
     image.style.display = "block";
     image.style.margin = "0 auto";
     image.style.borderTopRightRadius = "10px";

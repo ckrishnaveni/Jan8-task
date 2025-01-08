@@ -19,7 +19,7 @@ let contactno = document.createElement('span')
 
 function createId() {
     div1.style.width = "320px";
-    div1.style.height = "420px";
+    div1.style.height = "auto";
     div1.style.borderRadius = '10px';
     div1.style.marginTop = '20px';
     div1.style.border = "2px solid #000";
@@ -29,7 +29,7 @@ function createId() {
     document.body.appendChild(div1)
     div1.append(collegediv);
     college.innerHTML = "SRIDEVI WOMENS ENGG COLLEGE";
-    college.style.fontSize = '20px';
+    college.style.fontSize = '18px';
     college.style.fontFamily = 'calibri'
     college.style.margin = '5px';
     college.style.fontFamily = 'fantasy';
